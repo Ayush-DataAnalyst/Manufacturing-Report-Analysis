@@ -22,7 +22,8 @@ Manufacturing-Report-Analysis/
 ├── 📁 Power BI Dashboard/            # (coming soon)
 └── 📁 Tableau Visualization/         # (coming soon)
 
-📈 Key KPIs Analyzed
+## 📈 Key KPIs Analyzed
+
 ✅ Manufacturing Quantity
 
 ❌ Rejected Quantity
