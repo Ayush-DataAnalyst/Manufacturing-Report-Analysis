@@ -45,9 +45,8 @@ Manufacturing-Report-Analysis/
 
 Tool	Purpose
 Excel	Initial analysis, dashboards, KPIs
-SQL	(coming soon) Data cleaning & queries
-Power BI	(coming soon) Interactive dashboarding
-Tableau	(coming soon) Advanced visualization
+SQL	 Data cleaning & queries
+Tableau	Advanced visualization
 
 🧠 Insights & Outcomes
 Identified trends in rejected quantity across machines and employees.
