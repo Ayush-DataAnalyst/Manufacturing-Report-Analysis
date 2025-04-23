@@ -18,9 +18,8 @@ Manufacturing-Report-Analysis/
 ├── 📁 Project Dataset Files/         # Raw & intermediate data files
 ├── 📄 COLUMN DESCRIPTION.docx        # Metadata describing column meanings
 ├── 📄 README.md                       # This documentation file
-├── 📁 SQL Analysis/                   # (coming soon)
-├── 📁 Power BI Dashboard/            # (coming soon)
-└── 📁 Tableau Visualization/         # (coming soon)
+├── 📁 SQL Analysis/                  
+
 
 ## 📈 Key KPIs Analyzed
 
